@@ -1,0 +1,9 @@
+FeelingsIntent I am feeling {Feelings}
+FeelingsIntent I feels {Feelings}
+FeelingsIntent I felt {Feelings}
+FeelingsIntent I am {Feelings}
+YesnoIntent {Yesno} Wow I feel better now
+YesnoIntent {Yesno} I didn't feel it
+StopIntent stop
+StopIntent off
+StopIntent shut up

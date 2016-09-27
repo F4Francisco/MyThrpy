@@ -1,0 +1,27 @@
+{
+"intents": [
+    {
+      "intent": "HelloAlexa",
+      "slots": []
+    },
+    {
+      "intent": "FeelingsIntent",
+      "slots": [
+        {
+          "name": "Feelings",
+          "type": "FEELING_LIST"
+        }
+      ]
+    },
+    {
+      "intent": "YesnoIntent",
+      "slots": [
+        {
+          "name": "Yesno",
+          "type": "YESNO_LIST"
+        }
+    {
+      "intent": "StopIntent"
+    }
+  ]
+}
